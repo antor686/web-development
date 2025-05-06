@@ -159,13 +159,3 @@ while(flag):
     print("2. No")
     res = int(input())
     flag = 1 if res == 1 else 0
-
-
-
-
-
-
-
-    
-    
-
